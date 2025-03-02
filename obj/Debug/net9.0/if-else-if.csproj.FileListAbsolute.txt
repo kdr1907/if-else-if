@@ -12,3 +12,4 @@ c:\Users\kdrok\Desktop\if-else-if\obj\Debug\net9.0\refint\if-else-if.dll
 c:\Users\kdrok\Desktop\if-else-if\obj\Debug\net9.0\if-else-if.pdb
 c:\Users\kdrok\Desktop\if-else-if\obj\Debug\net9.0\if-else-if.genruntimeconfig.cache
 c:\Users\kdrok\Desktop\if-else-if\obj\Debug\net9.0\ref\if-else-if.dll
+c:\Users\kdrok\Desktop\if-else-if\obj\Debug\net9.0\if-else-if.sourcelink.json
