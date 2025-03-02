@@ -1,0 +1,14 @@
+c:\Users\kdrok\Desktop\if-else-if\bin\Debug\net9.0\if-else-if.exe
+c:\Users\kdrok\Desktop\if-else-if\bin\Debug\net9.0\if-else-if.deps.json
+c:\Users\kdrok\Desktop\if-else-if\bin\Debug\net9.0\if-else-if.runtimeconfig.json
+c:\Users\kdrok\Desktop\if-else-if\bin\Debug\net9.0\if-else-if.dll
+c:\Users\kdrok\Desktop\if-else-if\bin\Debug\net9.0\if-else-if.pdb
+c:\Users\kdrok\Desktop\if-else-if\obj\Debug\net9.0\if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kdrok\Desktop\if-else-if\obj\Debug\net9.0\if-else-if.AssemblyInfoInputs.cache
+c:\Users\kdrok\Desktop\if-else-if\obj\Debug\net9.0\if-else-if.AssemblyInfo.cs
+c:\Users\kdrok\Desktop\if-else-if\obj\Debug\net9.0\if-else-if.csproj.CoreCompileInputs.cache
+c:\Users\kdrok\Desktop\if-else-if\obj\Debug\net9.0\if-else-if.dll
+c:\Users\kdrok\Desktop\if-else-if\obj\Debug\net9.0\refint\if-else-if.dll
+c:\Users\kdrok\Desktop\if-else-if\obj\Debug\net9.0\if-else-if.pdb
+c:\Users\kdrok\Desktop\if-else-if\obj\Debug\net9.0\if-else-if.genruntimeconfig.cache
+c:\Users\kdrok\Desktop\if-else-if\obj\Debug\net9.0\ref\if-else-if.dll
